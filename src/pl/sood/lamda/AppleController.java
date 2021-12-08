@@ -1,11 +1,11 @@
-package pl.sood.strategy;
+package pl.sood.lamda;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static pl.sood.strategy.AppleColor.GREEN;
-import static pl.sood.strategy.AppleColor.RED;
+import static pl.sood.lamda.AppleColor.GREEN;
+import static pl.sood.lamda.AppleColor.RED;
 
 public class AppleController {
 

@@ -1,4 +1,4 @@
-package pl.sood.strategy;
+package pl.sood.lamda;
 
 public class AppleHeavyWeighPredicate implements ApplePredicate{
 

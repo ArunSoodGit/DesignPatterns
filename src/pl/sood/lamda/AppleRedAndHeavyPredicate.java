@@ -1,6 +1,6 @@
-package pl.sood.strategy;
+package pl.sood.lamda;
 
-import static pl.sood.strategy.AppleColor.RED;
+import static pl.sood.lamda.AppleColor.RED;
 
 public class AppleRedAndHeavyPredicate implements ApplePredicate {
 
