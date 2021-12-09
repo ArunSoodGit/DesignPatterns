@@ -1,4 +1,4 @@
-package pl.sood.strategy;
+package pl.sood.strategy.basic;
 
 public class IsNumeric implements ValidationStrategy{
     @Override

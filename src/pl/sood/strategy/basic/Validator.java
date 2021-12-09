@@ -1,4 +1,4 @@
-package pl.sood.strategy;
+package pl.sood.strategy.basic;
 
 public class Validator {
     private final ValidationStrategy strategy;
